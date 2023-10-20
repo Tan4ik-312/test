@@ -1,0 +1,139 @@
+body {
+  background: url(../images/footer.jpg) no-repeat center bottom;
+  background-color: #747d82;
+  margin: 0px;
+  font-family: Verdana;
+  font-size: 11px;
+}
+#wrap {
+  background: url(../images/bg.jpg) center 0px no-repeat;
+  width: 100%;
+}
+#main {
+  margin: 0px auto;
+  width: 1000px;
+  min-height: 1809px;
+}
+#hdr {
+  width: 1000px;
+  height: 300px;
+  margin: 0 auto;
+}
+#logo {
+  background: url(../images/logo.png) no-repeat;
+  width: 573px;
+  height: 175px;
+  position: relative;
+  top: 40px;
+}
+#cnt {
+  width: 1000px;
+  min-height: 1560px;
+  background-color: #fff;
+  position: relative;
+  background: url(../images/cnt.jpg) repeat-y;
+  margin: 0 auto;
+}
+#lcnt {
+  width: 710px;
+  min-height: 1300px;
+  float: left;
+  background-color: #fff;
+  position: relative;
+}
+.post {
+  width: 622px;
+  margin: 50px 0 0 47px;
+}
+.post h1 {
+  font-size: 26px;
+}
+.post h1 a {
+  text-decoration: none;
+  color: #000;
+}
+.post h1 a:hover {
+  text-decoration: underline;
+}
+.post p {
+  font-size: 12px;
+}
+.post_inf {
+  float: left;
+  border-right: 1px solid;
+  text-align: right;
+  margin: 0 15px 0 0;
+  padding: 10px 0 0 0;
+  height: 64px;
+}
+.post_inf span {
+  margin: 0 20px 0 0;
+  font-size: 14px;
+  font-style: italic;
+}
+#rcnt {
+  width: 290px;
+  float: left;
+  position: relative;
+}
+.rss_twitt {
+  width: 290px;
+  height: 120px;
+}
+.rss {
+  margin: 10px 0 0 20px;
+  display: block;
+}
+#rcnt h2 {
+  margin: 30px 0 15px 20px;
+}
+.l_lnk {
+  margin: 15px 0 0 20px;
+  width: 260px;
+  height: 260px;
+}
+.l_lnk a {
+  margin: 0 10px 10px 0;
+  float: left;
+}
+.l_lnk div {
+  width: 120px;
+  height: 80px;
+  text-align: center;
+  background-color: #758792;
+  float: left;
+  font-size: 18px;
+  padding: 40px 0 0 0;
+}
+.cosplay {
+  margin: 10px 0 0 20px;
+  display: block;
+}
+.news {
+  background-position: 0 -620px;
+  margin: 5px 0 5px 20px;
+  display: block;
+  height: 27px;
+  text-decoration: none;
+  color: #000;
+  line-height: 14px;
+  width: 224px;
+  font-size: 12px;
+}
+.news:hover {
+  text-decoration: underline;
+}
+#foo {
+  height: 322px;
+}
+#foo_d {
+  width: 1000px;
+  position: absolute;
+  left: 50%;
+  margin-left: -500px;
+}
+#foo p {
+  color: #fff;
+  margin: 70px 0 0 90px;
+  font-size: 12px;
+}
